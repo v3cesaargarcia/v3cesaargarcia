@@ -4,7 +4,10 @@
 <img src="https://orbe.ai/images/og-image.jpg" target="_blank"></a>
 <a href=“SEU LINK DO WHASTAPP" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
+
+<a href="mailto:SEU E-MAIL" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+                                                                                                                         
   
 - 👋 Hi, I’m @v3cesaargarcia
 - 👀 I’m interested in ...
